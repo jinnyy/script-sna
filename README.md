@@ -7,7 +7,7 @@
     --------------------------------------------------------------------------------- 
 
 
-## YBIGTA 2018-2 CONFERENCE
+## YBIGTA 2018-1 CONFERENCE
 #### - Social Network Analysis
 <br>
 

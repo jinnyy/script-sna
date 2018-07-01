@@ -7,33 +7,26 @@
     --------------------------------------------------------------------------------- 
 
 
-## YBIGTA 2018-1 CONFERENCE
+# YBIGTA 2018-1 CONFERENCE
 - Social Network Analysis
 <br>
 
-#### 대본공작소:SNA
+### 대본공작소:SNA
 - 주제: <흥행한 영화>와 <흥행하지 못한 영화>의 인물 네트워크 구조 비교
 - 흥행한 영화: 아카데미 상 / 박스오피스 상위권 (수익이 몇 배로 난 경우)
 - 흥행하지 못한 영화: 수익이 투자금액보다 작거나 거의 같은 경우
 
-<br>
-#### 결과 일부
 
-##### 1. 아바타 (AVATAR, 2009)
+### 결과 일부
+
+#### 1. 아바타 (AVATAR, 2009)
+- 인간, 나비족 등 선인과 악인이 서로 다른 그룹으로 분류된다
 
 ![avatar graph](/img/0_graph/avatar-g.jpg)
-- 인간, 나비족 등 선인과 악인이 서로 다른 그룹으로 분류된다
+
 <br>
 
-##### 2. 미드나잇 인 파리 (Midnight in Paris)
-
-<img src="/img/0_graph/midnight-in-paris-g.jpg">
+#### 2. 미드나잇 인 파리 (Midnight in Paris)
 - 현대에서 관계맺은 인물들, 과거로 가서 처음 만난 인물들, 과거에서 관계를 형성한 인물들 등이 각각 그룹을 이루고 있다.
 
-
-<style>
-.center-image{
-    margin: 0 auto;
-    display: block;
-}
-</style>
+<img src="/img/0_graph/midnight-in-paris-g.jpg">
